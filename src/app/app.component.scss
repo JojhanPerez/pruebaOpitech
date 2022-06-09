@@ -1,0 +1,39 @@
+.table {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  height: 40%;
+  width: 60%;
+}
+
+.container {
+  display: flex;
+  height: 90%;
+  overflow-y: auto;
+  background: #f7f3e7;
+  width: 100%;
+}
+
+header {
+  background: linear-gradient(260deg, #fd6753 20%, #ffc107 100%);
+  height: 5%;
+}
+
+footer {
+  background: linear-gradient(260deg, #fd6753 20%, #ffc107 100%);
+  height: 5%;
+}
+
+th {
+  color: white;
+  font-size: larger;
+  background: #fd6753;
+}
+
+td {
+  font-size: medium;
+}

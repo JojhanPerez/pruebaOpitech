@@ -1,0 +1,30 @@
+[
+  {
+    "userName": "Vanessa Osorio",
+    "subject": "No puedo ingresar a mi cuenta",
+    "customerSatisfaction": "80%",
+    "priority": "Media",
+    "status": "Pendiente"
+  },
+  {
+    "userName": "Ramdhei Lopez",
+    "subject": "No inicia sesión",
+    "customerSatisfaction": "100%",
+    "priority": "Alta",
+    "status": "Resuelto"
+  },
+  {
+    "userName": "Fernanda Giraldo",
+    "subject": "Se cierra la sesión iniciada",
+    "customerSatisfaction": "30%",
+    "priority": "Alta",
+    "status": "Pendiente"
+  },
+  {
+    "userName": "Julian Pacheco",
+    "subject": "No se visualiza bien la información",
+    "customerSatisfaction": "100%",
+    "priority": "Alta",
+    "status": "resuelto"
+  }
+]
